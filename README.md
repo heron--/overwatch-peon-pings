@@ -1,6 +1,6 @@
 # Overwatch Sound Packs for peon-ping
 
-A complete collection of [peon-ping](https://github.com/PeonPing/peon-ping) sound packs for every Overwatch hero.
+A complete collection of [peon-ping](https://github.com/PeonPing/peon-ping) sound packs for every Overwatch hero. Browse them on [OpenPeon](https://openpeon.com/packs?franchise=Overwatch).
 
 ## Install
 
