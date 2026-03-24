@@ -1,0 +1,281 @@
+{
+  "cesp_version": "1.0",
+  "name": "moira",
+  "display_name": "Overwatch - Moira",
+  "version": "1.0.0",
+  "description": "Moira voice lines from Overwatch -- the geneticist who will reshape humanity",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "Knowledge is its own reward.",
+          "sha256": "b1e49985ed2e9b3f15ffa0e0b0c16aa84a911b95c357c7cf8e7a81211448730a"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "Much lies in store. Let us see to it.",
+          "sha256": "a7b5d2cd310b275323a7ab15916eea82b4854c027b01a69d2a01c4ce480d79f4"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "The world evolves, and so must we with it.",
+          "sha256": "748d2ba2a62dca12f687761772711165d5b6d9c942beff9e30ae26aec2b66f8b"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "On with it.",
+          "sha256": "f6cb41363cf6cdd3937784cff9bc555e74eb53cdd603f5a680f9a9b04c8add9b"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "I'll see this matter resolved.",
+          "sha256": "bc3d8b2be3899c8d582d22b2878029315284dc28f3bbc6ad5d68c311029a15e6"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "Right.",
+          "sha256": "11eaf3cf2ea66858af2b5e2ef20119d7b60ac24f417f4f9ec9d9ae1c25ebc730"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "Yes.",
+          "sha256": "177f4033749c9e0e3a5fae2b286d29cd3e48e79a8e8c51078d30dd7d558c946f"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "I'm with you.",
+          "sha256": "2a19ecb56515f669dc2048be4105c5227af32c32c428726a33fa2903b38eac5d"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "Ready.",
+          "sha256": "9f31e9927a789c5931a26474feacbb331688d836d3011382653acfc19b8caf28"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "If it must be done, let it be done quickly.",
+          "sha256": "b29967e104c6fa6720b392e9b2f9982c373bd232860ff2dced8906a780f1a1a1"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "As expected.",
+          "sha256": "6365bf132f9ed7cace581e71d7860c552b8d84e77157c28a49a8afbe954dc37e"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "It's settled.",
+          "sha256": "986118a5a81dfc8fc0e113e109c404cbdf704c5fa95fe1057c5321e9c4717916"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "That will be all.",
+          "sha256": "902bd6e9ad453b0534fcc1889f631e347804f712d7be3a33b1e2cab3b73530a3"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "Impeccable.",
+          "sha256": "905e54e21a4c5669d0217d99a0e0bcb2e4184a7bb416ab436e97155bc58b6a2a"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "To be expected.",
+          "sha256": "af2685ac08c43955bd056183fc016f1be7ee120790401c26740190116bd552b2"
+        },
+        {
+          "file": "sounds/task_complete_6.mp3",
+          "label": "Ar d\u00f3igh! (Superb!)",
+          "sha256": "b5c237b68dfc4d382edbcba3564ea9d8965dc9c03327afb475d2ac9430abc3b4"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "Damn!",
+          "sha256": "ac22543abfd6079a6e52f467c7a9f78dbb9567b37261a83a919f1f8cd2bc41ee"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "Curious.",
+          "sha256": "ec8645a97a8e408d6c3d9e590dab9da2426fbb88bd0dc6867d6a918fe42fba73"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "It seems our tests were inconclusive.",
+          "sha256": "d975b835929f522448a6915c37bdbcfa747d0c86fbb3ffb85ff29ba69647c758"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "Bothersome.",
+          "sha256": "da4a8102eb99ea2b226cc0d4fc67781fa19157ea8097afa6513ec3e7946f72ad"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "Evolution is a painful path to walk.",
+          "sha256": "01354cf18a41e1b4ae31e56041defd4fa4d175dd5548130f95b78162901dc64c"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "Help me!",
+          "sha256": "c5f9b84557c326462da83bc2a40711d8a34a827a65c37cb7447464aeeafc607b"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "I need assistance!",
+          "sha256": "2098ddb0d20199685bc1784efc4f594205f7d3e11429057590162f3551ba5376"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "Come to me.",
+          "sha256": "fdc50bdf2338bb7023343ae7ab790073bebd3b3d8767827bdc92dee2a1b478ed"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "What are you on about?",
+          "sha256": "73a0a34be37592ea0befc079eb673c3cf40cf3d79ff794876ca8959c4020babf"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "What is it now?",
+          "sha256": "4b225b765908d047e1e37832577b5bb955020d4dbb90e53b716b4bc3ba41b926"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "It all comes down to this.",
+          "sha256": "a91b6c4934d77521757472f4db65e1f0d5f7491fd471bd46a05d77e0a720a240"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "We must strike before they can resist.",
+          "sha256": "8cb229c6a62e92c25f3dd95421c0faf8a0ec38797c481b08517d99514844afff"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "We've wasted enough time. Move!",
+          "sha256": "f0ad371324aaf7c406262290e7ee937375a097e9af1677889f9b28905c4988df"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "Time is of the essence. Make haste!",
+          "sha256": "e83909ecbd1899801106e1ab21a2a955f77ad9b30e7b0d6f537bcba152854ffa"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "One more mistake, and we fail.",
+          "sha256": "75556ee53e5f9ffafbca87cae7e0eec38bfbc306cfbc738fdd954d74bd438c1f"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "Are you finished?",
+          "sha256": "b96e89678a49f337bb19b548719f23485c623f2cd1b3fdd0e14842290a7ee8dc"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "Stupidity is not a right.",
+          "sha256": "4d6d6b0e0ef16d91e4683c703678422ae188ac5b30cb96d8befd53df1fc31f38"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "The state of you!",
+          "sha256": "3f547dfa5948a7e3e498f945ae63ce3e8589cd93773cebaac5cbe320321787b3"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "I'm working.",
+          "sha256": "a877460568d8b2ffa7cc2951154e85c6d4b4a05667ce316799780d85d9bf1a1f"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "Clearly, evolution does not distribute its gifts equally.",
+          "sha256": "022a82a77a8f3e95f59646aafef99228efd2a7632796a20eda4bc989c8807406"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "Farewell.",
+          "sha256": "0f2a33287c55e46bf8698433c33cf676f332961148ca33d57eefdfe528e6977a"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "Goodbye.",
+          "sha256": "dc61fadeb7ab9eefb1b3045772155bffab2b73152bc3536131b0bd808c4d7f71"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "This was a triumph.",
+          "sha256": "922d0aee1e9c94621e8bccfe2767407b5e8ca4462f07b059507abce13241e908"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "Grand.",
+          "sha256": "bfeb95617c695df459fe0ec5f456adeabf69b4d9f235cd580a383e9b6c6342a0"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "Brilliant.",
+          "sha256": "d6977bbac8ac14ea4c107ea2631fcfb4c496b456fa0f8d3df5b97c66931d5985"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "Now, to start anew.",
+          "sha256": "7e279fb6337fda88451c14e66c6e1dffe94f54dfe8af5b3ea6337dd083a5aa4e"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "The process begins again.",
+          "sha256": "f4d2870ef5ce0df6b3c3d06a1ee5bfc14414ee8cf7dde156449658658c04a1e9"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "Time again to try again.",
+          "sha256": "e39ce105b3485f24794474f5a7dbe8e58b53e7c17e335b3c8e677a7c59738d12"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "No opposition is insurmountable.",
+          "sha256": "8decc6d6049bd5c5196ef534aced2b475d4cb17834b566f5c794b1d0ce16085b"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "Progress is seldom won with ease.",
+          "sha256": "214a9122e1baae66b231c3e0990f8544cdb20f0190af77c822fa86c116b3cbc3"
+        }
+      ]
+    }
+  }
+}

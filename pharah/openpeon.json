@@ -1,0 +1,276 @@
+{
+  "cesp_version": "1.0",
+  "name": "pharah",
+  "display_name": "Overwatch - Pharah",
+  "version": "1.0.0",
+  "description": "Pharah voice lines from Overwatch -- the aerial rocket warrior and protector of the skies",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "Ready.",
+          "sha256": "db9f250883afdd343ae66d5109aa945952a217bc10a9035b4c9c4b3213c9e2bb"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "Push forward!",
+          "sha256": "634ce53fea9caf8cca1f4ba33af7ca7ea30d319cc4cfb52fd580e5bd0a3b6643"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "Barrage ready.",
+          "sha256": "2eb7eaa5d7108ba495a14a6e1c74580eaa1cbc4910a3bfc132d9209cd3b3bcc9"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "Let's get the flag!",
+          "sha256": "4b4cab7bd56275c4128f1ea5f7a3df2cee38439c23122b977ae626e35525ad2f"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "My ultimate is ready.",
+          "sha256": "991c864b583431b7d4a63217438ff6fc94fba28eb3a36e52fd5fbc5786e06ec2"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "Yes.",
+          "sha256": "6338af2bf0629aaf606ed250ce22daf61dfed07e6b64443607d9336e307d08c0"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "I copy.",
+          "sha256": "21b3f329ca0b494e9cb74a69088eb1548577a49010df1677a20aac0198fa2e7a"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "Copy that.",
+          "sha256": "497d81f2e2b7b40f28d116f88b8e627a3f16b4035b9f18f31c90de3e71330942"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "Eyes here.",
+          "sha256": "922b9bb1460ec38b5f2aff9accfb36705bcce1cab142a5e9f91a46f2b27190a8"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "On my way!",
+          "sha256": "3ac27db032666da8bf31d44a7cbb77b750c5244d722719ed0c88af1bfe54c0c6"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "That's how it's done.",
+          "sha256": "71b5e084b32f80e816043e84d525841cd6f1841b178db111c782adaa83b8dbe0"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "Victory is close, but don't go easy on them.",
+          "sha256": "dd8f23bc795b6cc3c727cf234c091a58180bd110803e83fa1bfe96e05f5a16ac"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "Excellent teamwork.",
+          "sha256": "99c92f36e3c0aecace303e01998e90650767288e405a65f0ad0668f8865b4f4b"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "That's how we do it.",
+          "sha256": "1b83c06bac1f9716212c8eedaa98999d04a7616d0786c75538d26fdb9c5d30ef"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "Enemy's not finished!",
+          "sha256": "02eef0cd0c4e77d755ce3712e2ed2059fbff9583852358da3709fe400f890d5e"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "Damn!",
+          "sha256": "a8b0dc37ee06cdfe11aa521cf11defbe2a5468277fedca9c4a01f7bc5ee41e75"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "My mistake.",
+          "sha256": "6f129537db7b4697ae6117dc2e07e0f1302a1464cb59d2b54cdea8f415a1dd50"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "Together we will not fail.",
+          "sha256": "a5b67ffcadbb8b5bd509d7b42cee97b059e7422d0914579bb8d433d86ffe6058"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "Go!",
+          "sha256": "86d91f1ac1291530cf95c064fd7d0cc3b5fd3403a379b8fb0afd858d5cdaa0f1"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "No.",
+          "sha256": "c4ae910cbb5f8b36d8cc15d6bb031a329fe311a875667aa686e047652d19bb70"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "I need help.",
+          "sha256": "2d06b780660b977d0b74ddb4c1b622c0934f0449842e79fc2ce992ce73ae1088"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "Group up.",
+          "sha256": "71051cd2a9408ac483516bebb178b1087e841c20af77095e96e6bf296aed5cee"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "Over here.",
+          "sha256": "74eb2b1fe8ff2e735b39b1c7f1861a4b8674c8f48e3817ceb4dd3f94423b16c7"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "Need armor!",
+          "sha256": "f0ec0a405b0e262bb1043683603c6ec6e0a6d0a09beee9b05f2e280ce2ca81a4"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "Need shields.",
+          "sha256": "eb8cd3953b3abe42976263c8a402518f41be8295e3d1c9d1c59d4c3789d5bcf9"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "Time to kick some tail.",
+          "sha256": "d477066909ba5534a4b6c3da433da529b2a31ec2acc291d078adab09594dd110"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "No time. Let's get it done.",
+          "sha256": "52898b6b7f974600a5ff4f936f3bbc5ff54d8f6a2540c36796d6b754abd8a8b9"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "Time is short. Press forward!",
+          "sha256": "0de7e3ec4ffdc783769a47824162c05816a01c8ec11c23993f55a127c1f37d1a"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "One more win? This should be easy.",
+          "sha256": "34572cbac3f3b9c4daf5d36fa61d989a300ad251929672927248e1809fa1a0ad"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "This is our last chance to stop them!",
+          "sha256": "dfe35ebdd3f148cc644eee7c1a47fc7ee63e19b7ba0632bb502a8d1b8c5fd2ca"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "Stop the robot!",
+          "sha256": "db9a95b7e29f1140acdb1ccda86c15f8f3a2ad7e848687910ad790f47c323e7a"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "Stop their push!",
+          "sha256": "fe5f8fb7aa313533aebef3b2764a636fc13b33e39cd59e3676c940ad4fd29522"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "Stop the payload!",
+          "sha256": "645fd4726612d8410fae3527e430a1f8190e89393f9c6559d8d5f497846fc986"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "After action report: unstoppable.",
+          "sha256": "50bf607e3da8090a3fdf7e028f5d4ec62ba43827b3d4f3c0cf56645859041511"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "Hello.",
+          "sha256": "b3744c9b349ace84ab7de1a7179b6c6441c53606a73d67cd57b7e69d8beee4a8"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "Goodbye.",
+          "sha256": "da8032f82611e549ef3372f13f6488ca380a01f0e3e60be0f4c0bffd5f1aef16"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "Sorry.",
+          "sha256": "c7551cea7c6e35156b8dbf799db1aedcc79055064d498a88e2569f45d9ce0d76"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "Thanks!",
+          "sha256": "e78b3cecbbdebb364b573e725ab44c68d9256994578a8c19bea1d81177835bab"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "Try me.",
+          "sha256": "46942ef45854db77109437272b997daf68150ece7305913eb9e3426e05554b32"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "Form up.",
+          "sha256": "40da2f44fd729bf13df60a7b3feffc25541e2278c34c5b308f42e7afb19b1c67"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "Squad up!",
+          "sha256": "0869fb934115bae6a2bfc1eb80aaec1d9ec67091326f28c52eb94850e29fce12"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "I'm back!",
+          "sha256": "9545b9881d9e2d4233cad30442dee5be9c8db7f6d867b01ad1d23fc51896ab76"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "Thank you.",
+          "sha256": "8ce0e2c5d370ffc19f5d300f078ceb2bfe2fc45458715ac67f4aa00d28eba6df"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "Much better.",
+          "sha256": "fecba514a9e6e9b8acf0863b4f0628a40b2db102036881184abef8533254effb"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "Shake it off.",
+          "sha256": "56d88ace9f2ca230764ef7ac1839a69e90053a3e6807efe6d3ac1e3bf0b2f18a"
+        }
+      ]
+    }
+  }
+}

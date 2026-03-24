@@ -1,0 +1,276 @@
+{
+  "cesp_version": "1.0",
+  "name": "roadhog",
+  "display_name": "Overwatch - Roadhog",
+  "version": "1.0.0",
+  "description": "Roadhog voice lines from Overwatch -- the one-man apocalypse",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "Ready.",
+          "sha256": "900e99373383a063dbb166ec79e2fd5ac41b65cc6d3a686431b95ea493e2dda2"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "Forward!",
+          "sha256": "e9b98aa8b604ae7ce54ef7417e1faf5e850654686f648ca028e5d0a51fc488dd"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "Let's go.",
+          "sha256": "3270a118d5dcf60c5182cbedc2ee23de7a1fa39ca06f5bf0b1ccf7154d906238"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "Let's go again.",
+          "sha256": "a5c2e4bfd9bb5299d1cd9a1b68d754643fba78f0b159dd5142660781601eb196"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "Ultimate ready.",
+          "sha256": "8065a9fc7c5816a47d4165b780116d3d99b7f12956df9d6d374ceb7f9cdcfd60"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "All right.",
+          "sha256": "9a39076fc4f2c2fa8c013c407fc8f6016411d3ec47dc175f33ae654e4dab50d2"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "On my way.",
+          "sha256": "05c7a837bcce666a9e716fae1e2ddb666c5eded69316ebda8b4f7c7754ff2203"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "Alright, bro.",
+          "sha256": "625e79d4e4c9c6f3e5c90f141f3ef56d0ee2f83387581a79c938766fc0cbfa2b"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "Hi.",
+          "sha256": "07058645517e3535fc3fa916abf0769c12aa3769148dc171723b3a2487768b51"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "Go!",
+          "sha256": "258c226c26e50977b3384b7984d0f19021cb643d845841400bb9cfcd3b3e4234"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "Easy prey.",
+          "sha256": "c05925bec2a90910451b357cf773f448950a90ad69d1e9cce931328a8cd82916"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "Die.",
+          "sha256": "a6fa9940a80c7b9f5f5705dae2458fe223dbbc4dda88c2707f788d1248eef8ac"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "Good!",
+          "sha256": "8673cbbc27d3f3eb307f1d7f483978b40852cea0121f39ab45ea77618021935b"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "Beaut.",
+          "sha256": "2899f6ba696c1ad289e18efa4781fa35552cc2dd869488b4ccc0f511ae08fb22"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "I win.",
+          "sha256": "42d2ce404e4baf8ebd3f42b81653b369839c5a20c0156e657d9bd022f0354eb6"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "Didn't have enough?",
+          "sha256": "fb7c9722e17f9b7a6d9c2c391ba5b6b43451637b393b0c1a3578ff9ffc825867"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "They're not back yet. Ugh.",
+          "sha256": "c96eba22c31eecb33816274ef33296f5aaa47aa5775369242570aee270ada1ab"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "No.",
+          "sha256": "739da822eee63136bd0934178664fd382362d39f48128ffd343a6c801883c26e"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "Hey.",
+          "sha256": "e5e3beb30b3b42569a7c02c624a184e19979b58f644fa192deffdb321b2c6246"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "Bye.",
+          "sha256": "847fa78e6f6d4a9f035b740e7f33fede6d98cd1d5aecd2ff322aba13f187fc80"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "Need help.",
+          "sha256": "7274ea42cb8074401a7389a50cd22219ad95ed4d891e6de132f9395de83b3245"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "Join me.",
+          "sha256": "4db260867424762508ace223272c980d34e29d6e01fac49f84647cc92854cd15"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "Group up.",
+          "sha256": "533d0c2e861c6e54dfd21563c26f4c27d9a1d1a71ba22970709513ab02c41480"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "Over here.",
+          "sha256": "6006579084d6f2dc9fa6bfb7563272e2c0853f340d8b7a8d11eed2a133c464c5"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "Need healing.",
+          "sha256": "1d7b4ccb400aed3c520367ddfe6b70a5de56c98f887965d67632cbb007702f2f"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "About time!",
+          "sha256": "660fa6c0658cb247b4ecd3dbb06add87486369478cf1dc7d197e8df5a279cd77"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "Roadhog time.",
+          "sha256": "5c36f8714c16bd14a00b101c6ba92385be8d6ec3d18e544e746a7af74d089e51"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "Out of time. Attack!",
+          "sha256": "1ab3b8b2886d55af336ae067017f65de03737150ac9494ec2a09eddd37c6e5f1"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "Last chance. Stay close.",
+          "sha256": "0a08548a64dd58a3312a70e7feb88a3c587bf2a6ba942aa8a82ba06b6af7e0e4"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "Just need to win one more.",
+          "sha256": "4eef5775076746563cc4e45af818ffcb39537b22211f86121ae20cdd57c77f1d"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "Stop 'em.",
+          "sha256": "326dc9cbc1d2db16570518dfdf0a0144a0292f3e9692304331cc18775d8c0ba2"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "Stop the robot.",
+          "sha256": "1850ad565a077c272992668209a7485d8ffa6cc7c2024a9faa804699dc037064"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "Stop the payload.",
+          "sha256": "3a66131a78cd96f56d0d4f30f2f8bc70d76662bf6de5aeb68f8c97f264e9ea92"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "Let's not do that again.",
+          "sha256": "9a6ef8dbd7bbafc2bd3b5292d8c99af5c119e82480d11fa29b5ba01df8f25097"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "Boo!",
+          "sha256": "becd0a84dd30e69c90fae34fa5c8b87ef3b6a147db87e6e110753e16019df2e2"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "Later.",
+          "sha256": "49d165e626250acc053f74cd709c79f586a7787cd21802381ddc76ed43aae9b8"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "Okay.",
+          "sha256": "c6e2b763535f88396ba0a250066448256291f7455ab74470db7c805f4c5ab325"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "Yeah.",
+          "sha256": "911bf71fbc09568a99f2d862720fa4d12ed825261cc27e9bf14d145d1ab749ae"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "Yeah.",
+          "sha256": "cd2fb229aa8e8adc6afcc6df3264bf256b274cc75baeb928bd727f5b5d5d0a4d"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "On me.",
+          "sha256": "308db07a348ba4e2cf67194a2081f3ff096afce6cb7a64fe79af25c1efcbde1a"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "Shiny.",
+          "sha256": "6ed6220d5fedb54136c1f78ab849a4352b3bdcbfd822fb9153fad27a4b9746fd"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "Thanks.",
+          "sha256": "7711ef7236f23e360d05c5bbb5f9d5b8fa6277e83d4b331d32d78f166ce579e3"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "No way!",
+          "sha256": "f5a21166c639bf059d8718159d1b94bd5b4ceac15f8cbe3039e4e59bbcc45773"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "This is it.",
+          "sha256": "48877eac89a46776a6f5b6e97688aa96827a7855f8ac7ad443d891252c262abc"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "Oh, goodie.",
+          "sha256": "6c90a4a33c35bb5528b2bf825dba938833a08e38f89eb18d6290b39b9beb1038"
+        }
+      ]
+    }
+  }
+}

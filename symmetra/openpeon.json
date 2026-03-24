@@ -1,0 +1,276 @@
+{
+  "cesp_version": "1.0",
+  "name": "symmetra",
+  "display_name": "Overwatch - Symmetra",
+  "version": "1.0.0",
+  "description": "Symmetra voice lines from Overwatch -- the light-bending architech who imposes order on chaos",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "I'm ready.",
+          "sha256": "52171cfdf76a133b574f64016bdbf6dd7047ac793ed6fa1e8d2b3fd1904d5b13"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "Push forward!",
+          "sha256": "9d59f509faf72b232d817a2a070e2bcf912059d1eb1f9795c32fb56269e8af03"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "Our work begins.",
+          "sha256": "7906537ed1256fc22a7bac8370a9a749391027f0ed015683a829f545020d99d1"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "It is time to attack.",
+          "sha256": "ba559d18bca52e0300bc8ecb27a05ace54fe2d85744cb6c2fd40ffcd84e753c1"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "Let us continue on this path.",
+          "sha256": "f3a7bbebf78540d3c415fc5c4f40dce96db7d780a719ea0e4265f614c7ba7185"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "Yes.",
+          "sha256": "e0bf51211ffabe1fba3dfeb5199948492ea340122e25c8c62a5f3cb87a3f5de7"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "Understood.",
+          "sha256": "5a4ef78c2e8c300140a0099fb8117cd3863facc2500badeac50623b9d3d2de60"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "Acknowledged.",
+          "sha256": "56f3b1f85558b953edf9aeaab20518c280122fe17bc8725f3759d1c0db1777a2"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "I am on my way.",
+          "sha256": "4671c6404e591105db1c1db0c8cde6720c7f2fcf69c41cd66968038bb3ef8275"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "Go!",
+          "sha256": "cfa0c0f6119ec71cae050fa2eca7f6d2727f35672ab674215d6d37678118aade"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "A Vishkar architech always completes her task to perfection.",
+          "sha256": "515f0e5a055613fd9bfd11836344b597165f21322129fdad2861c4ff5109261f"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "Excellent.",
+          "sha256": "fb2fa7fa2b0b8a420782bb7903d26270108f17724cafa47e4c469c1bc4aaa499"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "Perfect alignment.",
+          "sha256": "7be7353913da1944e7abe65bd126cf4eff4423594d697a48bcb28becd8d766d2"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "Perfect alignment.",
+          "sha256": "b712daa0aec4611a9c6f91e43d0050fed2ba8b57711dae6173fc7289501173a5"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "Imperfection dematerialized.",
+          "sha256": "1e67442d99320b64d8d9dfe44540bc41ace1fae7d5a7a672ae9b5c06490100c9"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "Damn!",
+          "sha256": "b26065be567765a2688e17e10154844cef28f72127287417cacbf10144351243"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "I am in error.",
+          "sha256": "0590378d88b87d1972688f009e1f63f246a79922ae6e58c0e1e4dce67b4e5777"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "With each failure comes new perspective.",
+          "sha256": "2e9b87fb1785e8588c83a2fcab9281381a1dec4ad4f70836719f8a3c7f441ea0"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "We still have time to correct our mistakes.",
+          "sha256": "09ed44a900172a1b71a1f6742073679067048bd151c6b6af9072c054d64925f5"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "We must not fail in our efforts. Let us work in harmony.",
+          "sha256": "326b43c2182ac6a0ad93558a7721e44b49fac8ee350bc9e2ad943521777bc610"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "I need help.",
+          "sha256": "e5991671827a1c97aaeeb333531bc4f2fbe1e30418c05827f4fa7f7360945455"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "Group up.",
+          "sha256": "51b05b30fe53a582a8a01c9b063e4a34899f5e05c62f68b976c8bae76d29674f"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "Over here.",
+          "sha256": "546e3155c90aeaefc0fce16c5178f283e562ac001e9da6426c5a2a2769572d03"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "Group up here.",
+          "sha256": "5a5e76c539628d2baf207b5fb0fd88a074ed305caf541350ab187693e21bbe25"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "I need healing.",
+          "sha256": "d68644326fba17604de8186feb3c1f83290c813b858de07ea430d43ad9476a21"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "We are running out of time! Do not lose focus!",
+          "sha256": "6b0a6072bd0b470eefa3062e68c16be6f9fa9b1beeb70f22bbedb09dcd02f0f4"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "They are running out of time. Maintain your place!",
+          "sha256": "a1e9709381b29ba3cfbcddd903381c7a3cefbd36b80c48cb8a8be20bbf6bdba3"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "Time to set our plan in motion.",
+          "sha256": "d97869f6ed31ccadf194ed5e3350a98675ce7172e0950433f47f7d6588984ec3"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "Hurry! We must not be defeated here.",
+          "sha256": "55df735c01177fb5e9fcd6c0593dee8d919ec7c20673adec4e16e207f513cb21"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "This is our last chance to stop them!",
+          "sha256": "2525a40cbff1a87b76cbdf494f1dbe0ef7465eabfb2ef22bde05bedc92f2d50f"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "Stop the robot!",
+          "sha256": "0a00e6cb5a8524e483f185b025f9ffac95b3a6e975b43fc89e638f235ce8be82"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "Stop their progress!",
+          "sha256": "ba34767c371452cbb4698ecf6ae5a3de36c3c0329ec5820929c3835e45c8b488"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "We must stop the payload.",
+          "sha256": "e68398e5c8cea030cd573ad51cdf878ccca13cf55a51f6571c1c62cc669ba933"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "No.",
+          "sha256": "0e6de2df34158d64b7cc5a2729869d19188cc0fd792f2f55aa969fa1109eadbb"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "Hello.",
+          "sha256": "df2f677b773531c43ad2bc692dfe600972921bdc7343e0ba2391c764ef309a85"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "Goodbye.",
+          "sha256": "f20832c2d15c75cf1dddd559e0476eaf624e03e4769a3407ed8842cb3aa8adfd"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "Form up!",
+          "sha256": "1ceeb27070d0cf1d74cbd772b2f55076fc6602c7881c7d94a311a1e45e46f801"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "Incoming!",
+          "sha256": "d4ce308ff4d6e2cb85d6fb5812eb83c3da464ce7061f68778cfd0c90edbccaec"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "Greetings.",
+          "sha256": "c2b6dc209a0a7f8d066925f327f63183d685540ca6e50ada991d802ddf1eeddf"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "Thank you.",
+          "sha256": "88714ac0ab84dac1ec7d1047b09bf58cedcc2ac077ef1ad811b92918134be9fd"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "Let us continue on this trajectory.",
+          "sha256": "37b06e53118af990e6f635ee4fcf9f1f9faced06e8f47203c257cf00797d0459"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "If we continue upon this path, victory will be ours.",
+          "sha256": "7532d862ff16e76ca2f2934f07ab3560d06ea8ebdfc1d511252cea76883b4af0"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "Wonderful.",
+          "sha256": "468867dce88e7e7b699b73a4c87bb1919a9aba9c951dbfdd92b75a19389d9af1"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "Delightful.",
+          "sha256": "5f5ede318e136a7973d67e24121b6c54469aede0c10a99b40c7fa4b4336ff95a"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "Much better.",
+          "sha256": "4f086f6eb86a27d13e97a2653b6eedee8e7a41e7f3e230767255f8f1c4468dec"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "cesp_version": "1.0",
+  "name": "vendetta",
+  "display_name": "Overwatch - Vendetta",
+  "version": "1.0.0",
+  "description": "Vendetta voice lines from Overwatch -- the shadowy damage dealer",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "Ready.",
+          "sha256": "0935f33394c5cddc68ab383572fc1d7e5a77b338b3a7d1f40eb00368286f3d76"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "I'm ready.",
+          "sha256": "37567cae45575450e7d366c3958823b4b2dd8dc5f2ff8f2d4df06a0d1aaf326d"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "Move forward!",
+          "sha256": "b1ab7cab111385f65e1cea88381ae4a3ead3de8dc356d0160f26c7ce221afc47"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "Push forward!",
+          "sha256": "5924d1fe9750e625c81577d8a9621dd715b3b18e678251404cbaea56c39b6c21"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "My ultimate is ready.",
+          "sha256": "bfb4e37030f8ee1423d1d40a6e6420efc5a14508c219ba92fc50e971f48cf8c7"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "Yes.",
+          "sha256": "eef1ae284f56e3f421ccd875d3025ea7cd2d634e3479892eec0f7203ae94d16a"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "Certainly.",
+          "sha256": "f0fa3f85ee0ac01df2de9f0b2acd4e5e69dfff5eb0e11bb2f11f2d2187166239"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "Very well.",
+          "sha256": "b329d3c6cc64a789f1c7b74a92be9c0ca52e86a09541183d164bd66e979d8379"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "Certainly not.",
+          "sha256": "79d0ad580dc6fb23aeb62498ad6fb72bf9df9e95846f1588cc21f16d03fb0a76"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "I'm on my way.",
+          "sha256": "2831b8dc52278898c9292b165a2c514111631535e17d4f16d9f5b6dc77780bcd"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "Oh, impressive!",
+          "sha256": "df7b198a64763884d1d4eb7ab45c643beaaea405f26b65ef2d8e633b2968de3d"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "You're finished.",
+          "sha256": "6ef17875431fd06c403484a0aa548b380ab54c141a25e2b25e7cd87e82f952df"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "Our victory is absolute.",
+          "sha256": "47c30b33da23c766c6f1649514bbf08058a1706d3e7dd93717a52b9c467bcb8d"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "I am the avatar of triumph!",
+          "sha256": "d017a12945f973846d9ef8a49a540828c89b0868b3187830caca2f2a9fb456b3"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "The enemy turret is done for.",
+          "sha256": "ae1ff9dc99704ec094d44ddfb58b9f8165a4353f1718b60deb272403cb83ebb3"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "No!",
+          "sha256": "47c6c11856f68bcaeddbbe19148f5730f0bb373146b23dc7f109792b1290c261"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "Damn it!",
+          "sha256": "e42e23ab5d52393ad1a4faef9c190ac8c4c7e8f275aa008c0d0c1725477b5f79"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "My mistake.",
+          "sha256": "b020f68ab652b7754545e14d22b2141bfddd77c486509af43a71e19a1594cd0b"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "Enough games.",
+          "sha256": "1589f17a1ba7f9a859e58d16fe8bfee3c728b459f7d52a3d9e49ab3a73deea3f"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "Good enough. I'm ready!",
+          "sha256": "01a623ee97196ef1f2502c13006e83bba56ba1cd74e9231d50b7fed7fe80a635"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "Group up!",
+          "sha256": "4933354f6b9661e4a631ab0235d98b5faafde39cee384deb28c16bc603007c80"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "Assist me!",
+          "sha256": "9508e81c4f0be23f000971fea63f7af09fce55841bfc22d8f287bb3b2d14a0c7"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "Over here!",
+          "sha256": "8b8c8af15b7359d66ea64fb45f0f03c659f58c24e01f319a3f6c1aae09fc2f16"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "I need healing.",
+          "sha256": "e3a61f8457a229fdc72f21ce17b042f92e5536037e35a5a335daa212340a33b5"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "I need more soldiers.",
+          "sha256": "5c132859c2cf34406cebcb288b8b0b700405a2a897c0f7d60e940afeee150080"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "You're just in time.",
+          "sha256": "58a8b1a0b46dc1e91fec720dcacf7a46f58da1532a4f8df05968bb4e7da2a710"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "Last chance. Prove yourselves to me.",
+          "sha256": "57cdec8bd64326c849f92f4761f571bfd326436bbe6233bc86f4aeebebfabb65"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "Our time runs short. Don't hold back!",
+          "sha256": "bb34e99eada7630a4a0f890ce1222ffe5af50e88d420ba9717f18d3cdb50d271"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "This is the final moment. Strike now!",
+          "sha256": "63ae2409ddd8732370c7c40b88bc70ba57f7d08494c2f1570cc0c510ccea8032"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "The final round is here. Don't fail me.",
+          "sha256": "f373a36ba254ad4f6342fcf1134249b21b9134928eef11778133218569ff56a3"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "Again!",
+          "sha256": "6d554f4c50d74108a348da742c66a2716728e5d0504abccd653127ff52588918"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "Stop the robot!",
+          "sha256": "02fb44da4ce0a74fd6119d7b1342c16d1ba6f9d7b59b34a1b35ed5abf05ffa53"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "Enough of this. Bring them down!",
+          "sha256": "6b61806321dcb52464fda30eba02fdeecc375a548e14a674ba1ecd0ac612f6a2"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "You have skill enough to serve me.",
+          "sha256": "e91d7ad37b28b74cd4afd72b6195ae1ba0856570e1b4c5790165f7e607b68715"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "Go!",
+          "sha256": "048fe4157a23182563f0c87ed35b68fee8f74aaaf72bf85237379e04f5e222e7"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "I see your potential.",
+          "sha256": "b5068f20a0b89ed951e9e060b258753fa9b39adbff9032f267eb5cc9f6401090"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "No.",
+          "sha256": "e7a5c1d47f7b89280e935ae2f76a15ca65074e82244f5cea41e781ef60ee1948"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "Begone.",
+          "sha256": "f2300cc97c47a2ae21e8d55226a29eef7fb52a6db99281e2ce9c5e37fe3efcb0"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "Aid me!",
+          "sha256": "bd0089f7930aac6f33a072a6918936e06b94b7935a31d6d6f703ba998e25d110"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "Heal me!",
+          "sha256": "0a0bd82e988b310dac9c7156d18a37c56626b8773e695ee26d10d20d81e311fb"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "Glorious!",
+          "sha256": "ffdbd72c7c92d742ee59fcf2f855cff8352b209b533f2603e9328d0c2eb6fdd9"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "I am restored!",
+          "sha256": "fb002117f6a39b3c35e2a2ad2b5b8aecc75914e61d1b67e8c296eceaab6e5409"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "I earned this.",
+          "sha256": "d107db1149cc7a74f20cf1679c1a9a3086802a7f96eb446f5b161b6637f5395b"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "I am the empire.",
+          "sha256": "9450ece1b70637d730be272c6b788a0a9cab22102369bd1f6a5281f582b05c24"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "The right choice.",
+          "sha256": "4e9649e261bbaeb41713e9f0a2ba7526b6ac0cf09870be117939c74807325e61"
+        }
+      ]
+    }
+  }
+}

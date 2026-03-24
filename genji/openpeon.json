@@ -1,0 +1,276 @@
+{
+  "cesp_version": "1.0",
+  "name": "genji",
+  "display_name": "Overwatch - Genji",
+  "version": "1.0.0",
+  "description": "Genji voice lines from Overwatch -- the cybernetic ninja who walks between man and machine",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "We should begin.",
+          "sha256": "49eafec794fac5e9979d266505dce61ff0153d9eb55a90c4812721b1e4d36d96"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "Let us proceed with haste.",
+          "sha256": "a4fd44fec2ee78ae943c78cccd61a683f6181717254c47092babcf538849b8d9"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "Our enemies have the upper hand, for now. Let us turn the tables!",
+          "sha256": "cd6072a3bf069e394392f501f502a2bb0f7c16333393a1219d7d5b0d589b24aa"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "Hi.",
+          "sha256": "040e4cc3b795f9d0f4364fda003477d8e16f7ec02764aa0ff3b8bd1f0d7a4daa"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "Damn!",
+          "sha256": "d791739fd10ceeb1bf3a65d4b20f0a57a11ad9c373964c6531593e86400acde3"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "I'm with you.",
+          "sha256": "e6daf06b0c3982676f01cb03439c7d9107dcb3cb8be57e3a06a57d407df84d90"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "Hello.",
+          "sha256": "82a36dc19f367c5161d4d59262def0c4ab7d3410a865b33bb9990d7c9b38491b"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "Thanks.",
+          "sha256": "fe3f915a2135a5c86ceef26ee899dae928ff8f25552786e9ef903bec7a25418b"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "Amazing!",
+          "sha256": "ddcf2bd7221754aa1bc0aad5cb24925d4fae03e13546f1dbdf062f594fbe5a68"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "Greetings.",
+          "sha256": "ed27f9e334f6d0b2d5db8b2c00b4de084e1ea686768728da6a8117b76178b0b1"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "(Japanese) Well done!",
+          "sha256": "55e4c249fa70e6f8f17caefb5dd6c18e50d16c0e33626ad6dde921ffb47157e2"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "Excellent.",
+          "sha256": "2cc1c0eb6c3c6943f0039645017a5b168d7df0fcabe81d352730954b88d690c1"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "(Japanese: Easy.)",
+          "sha256": "48cc4e8b4144808b1a591a28a20098a4f3b47f08a9f466c01bdf70643eb0f7a2"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "I cherish every victory.",
+          "sha256": "a0c4dd608345bb9a886e0bd4867cfecc947114ab442b2fba62f4e74c71913a3d"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "Mistakes will always precede victory.",
+          "sha256": "382923f48b4daa4d389dd8583e802d460b3585e4ba05ad0267f2c2f8d018dc77"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "Thank you.",
+          "sha256": "5176023768ae1872cf4b7fe1f789b5222cd4a35f8e7ff1e7066136944b8cb66e"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "Remarkable.",
+          "sha256": "a443365b8b57944b5185df1452ccecab1f904b917cfb4434ccd59b9f91935241"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "I am healed.",
+          "sha256": "a00f3c2443c6827b0f33fdde9591e55aa50f63bd34b76e93d2c9341b03095e3f"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "I'm on fire!",
+          "sha256": "1a21384fac91566a87068ac7910dca83d11626a2289702cf62c96f130be37a78"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "Untouchable.",
+          "sha256": "b6527171730582e06cb7a6001bee1a1d5807ac6134f1cbeaff4ca0a2c0ccfdbc"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "We need a healer.",
+          "sha256": "ae0ebf56d2843a02feb7f0327b15c95660efa494076f3f35680e21304159f128"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "Behind you!",
+          "sha256": "25048c0c28ef0a199fa25039df0907ba0cd2edd2c70f0297961258b31814a78e"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "Take cover!",
+          "sha256": "b6687c11ca9b04107ad7d858e61e7b6d5e91a8afa3fa926e45088f1d0c145e6d"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "I thank you.",
+          "sha256": "2a4bbba318141bd6ab90eb3e5a43f5aa4a2efb9898c6eb37aa253aaf1d37f9ca"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "I am healed.",
+          "sha256": "0f07f3e64492e60ea67890aeedfa09b85a91d50d12eefb52cd19fa803c892a03"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "Time is running out. Strike them now!",
+          "sha256": "b3b831983ff8065485f99d15945e45a20d23cbfcf423032c6ca23fbe723e6cc4"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "Just like old times.",
+          "sha256": "fb71ccd7100a85bdbf62b3dc8ddaa7787691336606ec171725bad1e2393fafe0"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "Let's finish this quickly.",
+          "sha256": "c20396b2628ee239963e8e8cec07f625e5c05912ec48fa79d1a01572d0bfe7b0"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "Finally, a real challenge.",
+          "sha256": "0a532d57b37f49e17739446176fa6d2c7325f4c0f42f57fd57686f5a433ed50a"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "Final push! Capture the robot!",
+          "sha256": "e878ced9edc49ac547c4ac97e0f30711dc7168bfbf43ed0b275d103ba0a80d8d"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "Touch\u00e9.",
+          "sha256": "03b3d24c2f4a957e1743b4fe9972d4545829c85ed38b6253b92388beb0bccb5c"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "Come on!",
+          "sha256": "868ee192b9f63f46a8689924a931212e580b50587b0b33423d979dcffe7f0fb1"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "Hah! Simple.",
+          "sha256": "72054986c8be159ae787c1f82dbea2fbd1016cf83a2542abffa62c44ad992cce"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "I understand.",
+          "sha256": "ab787dca14e42384bc535bffb5084d694ad0238c8e28bbe1bbee194600f5aa6c"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "My duty calls!",
+          "sha256": "7cdc6ca728f6ccbae82c891e618e82552b566c2ee2b1d28a2d1c61e65eb6dcc1"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "I am repaired.",
+          "sha256": "b15f2a98ba010a0cb07f9e71b292d4745315fa544e269ba65203f05c1a2d894b"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "I am restored.",
+          "sha256": "8bad13436369d3df7d42f8dafa7a25a646bd02bffa9df68c4cfc452f956d4a7c"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "You astonish me.",
+          "sha256": "3ce3127ad63be9412f5e58721dc5da063ec5d0f808f1f30682b5f8fbaf17ef13"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "Sorry about that.",
+          "sha256": "427838137d4182b21ffef5bb5daac88b6399e5b30c44f3076a93178a1ab52036"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "(Japanese) Sorry.",
+          "sha256": "c04d8c3bfdf714f0034c63cdbe9bbee5338a3316a8e4938f3b3f160c391d5876"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "I continue on this path.",
+          "sha256": "10e52942466c94315366d9e8fcc346533ee61963204a84e57fb17e91fc52d46a"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "I am strong, but with a team, I am stronger.",
+          "sha256": "be9d58924fd41c31ede4969de77cdf3dba94927b3885a37c80c3133adb4095b5"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "My spirit blazes!",
+          "sha256": "c9adaf6d5fce6c03178853212f2f487dbd640b42ff7fe696be286d3cf692d316"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "A worthy upgrade!",
+          "sha256": "3c2017a85e6a1ec18ff443eb0900b5c8943384258579690aaa5bb8e5eca03e06"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "My soul is alight!",
+          "sha256": "f7687d25939d1eed0a71cee13c97b3c089621c3b48f7845649bfa0e932acd506"
+        }
+      ]
+    }
+  }
+}

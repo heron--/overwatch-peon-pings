@@ -1,0 +1,276 @@
+{
+  "cesp_version": "1.0",
+  "name": "zenyatta",
+  "display_name": "Overwatch - Zenyatta",
+  "version": "1.0.0",
+  "description": "Zenyatta voice lines from Overwatch -- the omnic monk who seeks enlightenment through conflict",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "Ready.",
+          "sha256": "240331ae4a9a5bda05dfeb1d2c71b28207f42245fcf8a92656d2fa0a89acc501"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "I am ready.",
+          "sha256": "d3ed45aff972e407239577560f7b9b0704d52d2d53e9f7a0705ce2ad1c0173f6"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "Push forward.",
+          "sha256": "6613c43407ea837aa87a41384a3b66833a5d29927bcb92052a1807070e4791bb"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "The cycle begins anew.",
+          "sha256": "5c96099fbdd225f3a70aaa150689d662177bfd38077dea44377b123ac10f9b5b"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "Ready for Transcendence.",
+          "sha256": "a1d43ce7d33ca208cdd180b9bdd1dd60231d7b5b2d77484852c658d6adb87d3b"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "Yes.",
+          "sha256": "5de18609e1155ab2d1aea52bf785a4dec2dc238f16d4d3f8c13bda33c4c44918"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "Of course.",
+          "sha256": "ffc31b90343ba66a4c989d3c66b2b3e8ed8dcb41fb21466a17022e1728dfb375"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "On my way.",
+          "sha256": "9d65405ec10ebcc668692a5bb8fa2ed1611e24f019a52d17c66fbec484878945"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "Acknowledged.",
+          "sha256": "078443d1fa0441d8ca3598a6f9791ce3cf5ec9e1ec0a44c6255748a7a71d6a6e"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "This is the right path.",
+          "sha256": "bdb2e3f76acf9269b1e001218e4757730cd81d4091b4df4892db04a3d08b8fda"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "A herald of victory.",
+          "sha256": "104d283aecbd461b7fdb7aaacf7b24f4a8586510e4ce98cb42099b2df1d03680"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "Pain is an excellent teacher.",
+          "sha256": "add22a31eda4edbee0f059a38c905c9aa2c6e58410ac8815d071afaaf49402e2"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "A reminder that life is never easy.",
+          "sha256": "49a00754960a5e909a4daa6a09f6ca2dcc89a1840ba4b2a594565d361579f9a6"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "True strength does not always lie in victory.",
+          "sha256": "7ab74c4bfd35681d9144b576ce901242f9a8ba575d89d56e20fba3a648d79a5d"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "Our collective effort is leading us to victory.",
+          "sha256": "4c60c7d13567c58b817ddd223896ba71900e6c2715303dc798851ad40b4d160b"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "I was mistaken.",
+          "sha256": "825a4e2b5aef4926362476f856df94f4f7e16af661ac8e184fa7a665ef28a3b5"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "A temporary setback.",
+          "sha256": "a0fceca2d423f47fa000243e0d73986f47aeb8095507e8db10e1bc82e9bf929d"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "The cycle is broken.",
+          "sha256": "6732065306558a96c0330fe8ab77bab1f349c447e5287f43fe1a491ae55b697a"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "A momentary setback.",
+          "sha256": "c7c267d1daa23de8cc02e24d16c7e5e35b2cf809c27b511957d579654b8e3624"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "Energy flows through me.",
+          "sha256": "86d43b4cb96a5e39e684193a63cab99eabdcf72fb80c651d40f81b626a54af5c"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "I need help.",
+          "sha256": "3ff2de0a1eedb21409ae5d258683469d41c1e17cae21f2774549bb7233205a57"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "Join me.",
+          "sha256": "c3dd953d88e44dccb95b537f3246e1a3566fdd7cf69df09ff5dabe14771a5530"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "Group up.",
+          "sha256": "ea956901cbe9cd20bcda51cd5b5c2c771a68c17ff0eb18ef639f39ffc1852d14"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "Over here.",
+          "sha256": "1fafdf36a138ee506f21305fd8cc153b6cf29cba86c53d72baea348472247a09"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "I need armor.",
+          "sha256": "8d409cef8fd3adbcdfc3d5fc8df5fa95ab5fa4ff10dec06d2d82fdca1c53901f"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "Time grows short. Attack!",
+          "sha256": "51fcdfe5e527ea0957120c76aa13f33d18d956d6f44a68d49838f32b645ab38d"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "Time is of the essence. Let us attack!",
+          "sha256": "8d435ed4b977f8b130cc06498717f6841a3f4662e7e84a458cda966244269a78"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "The end approaches. Quickly, to the robot.",
+          "sha256": "150017d6b87a551295bb4bcfcf9e774a80c3c6f81c80bbe9a87031d6ce13ffb8"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "Our time draws near. Grasp the opportunity.",
+          "sha256": "96451ad5481dfa53bb3fa59515cd121fc66bfd5d011845765d290893709ed1d8"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "Time is on our side. We must simply endure.",
+          "sha256": "9b6ffd343964c535bdb2bdd9dd1b34e547d321807af223f2027d78f4154ceeea"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "Patience.",
+          "sha256": "f554f99f93aadc90be97a95029840dd4e2fa1c3a754446ddd66bde4e48bd2566"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "Go.",
+          "sha256": "a8087ffef9d9cd9d53b450f2f6ca8d437dacbf9d8c3b6ac7937a987acac91d85"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "No.",
+          "sha256": "b2e86f9057cc4e659d243c49b73f2ce53d0e99cdcbb23395a9d7465464f0b216"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "Hello.",
+          "sha256": "b334a9d4f518e1a22825b74b378dfdb23a4fbc97e77af3fe4da281e02567f908"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "Indeed.",
+          "sha256": "82ef5e2d5c4a4db60408367002fcdb5a211738673ea2426f43c84375e1652dc1"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "Farewell.",
+          "sha256": "9ae79c87e0b6407e73a2b70a49e6c324a26dfb108046dce46e1321f4888ceafa"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "Attack.",
+          "sha256": "4f834546e6c4567978e9b34236d44d0c9da9795b926dc9b7e3c177295aee551d"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "Be alert.",
+          "sha256": "a92723dc1500afbb3f1900de2432b8ed2adb40faf05111a1bbd978d799b10bfc"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "Incoming.",
+          "sha256": "4943e354adf14e7da21104b0b3c81e48036709c5b659a1d4e3bef2fc6c2104b3"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "I return.",
+          "sha256": "91229188b4c3a56b0a8d0304b65e49ae6e572a0872d59aa860e7e3cc0900b25d"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "Wonderful.",
+          "sha256": "ee82691a73a45020edf80150c231558b4f85f8ec46001705c1a7a1e7ce55760c"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "I am healed.",
+          "sha256": "a016177e5eeb0197087707f0bff12a3f8923f1c28344fa9f2c2107cd8ccd7c9a"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "Now to strike.",
+          "sha256": "2c3fe920d62da6ba32781288afa8c9326190eb6b5df5964600f655a3f579c47f"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "I am made whole.",
+          "sha256": "3d53da6a5465e70361433ee0aed11060948647ea515aead5bc8097cf693a6d7e"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "My soul ignited!",
+          "sha256": "efe0281176734b8646bdf59d5bc01b56493b732fb7696dc7158d957de402c327"
+        }
+      ]
+    }
+  }
+}

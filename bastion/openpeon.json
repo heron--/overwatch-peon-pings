@@ -1,0 +1,276 @@
+{
+  "cesp_version": "1.0",
+  "name": "bastion",
+  "display_name": "Overwatch - Bastion",
+  "version": "1.0.0",
+  "description": "Bastion voice lines from Overwatch -- the curious combat automaton turned pacifist",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "(greeting)",
+          "sha256": "e8dfecfc40d7d7413801bfb739c198fc3f694505603efb2516dfee37d27b4c51"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "(strong beep)",
+          "sha256": "279b97f9794b6e255f3267f611b2323cff77773bd45a87608b949d09d6cc89a6"
+        },
+        {
+          "file": "sounds/session_start_3.mp3",
+          "label": "(alert beeps)",
+          "sha256": "fb4318704fe06f0bc2927887393ec152426d82dc8614c89ef110e7cb588216b1"
+        },
+        {
+          "file": "sounds/session_start_4.mp3",
+          "label": "(warning beep)",
+          "sha256": "ceb079c62db77f7f0e0c2b86d922daeae2f163e4fd05d205a9aa44ca386e70dc"
+        },
+        {
+          "file": "sounds/session_start_5.mp3",
+          "label": "(urgent beeps)",
+          "sha256": "a0c26ad649a1cb108ac95388294444cc1287f158f0dd45359a0565b8bb33c792"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "(excited beeps)",
+          "sha256": "3f9a1bc16c1b962b30e449af24eb3f43a0612dfb439b2ac25a9e72b29f2ede13"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "(excited beeps)",
+          "sha256": "d1c4a887ff9d6c30b49166589f61ef6bd863a8f4b6ea960f5c6a4346323b9500"
+        },
+        {
+          "file": "sounds/task_acknowledge_3.mp3",
+          "label": "(worried beeps)",
+          "sha256": "a468af7ac9cb30d9f455539cc7b3c156cbc1751eb6c5af9c0967e8b4877cdfb6"
+        },
+        {
+          "file": "sounds/task_acknowledge_4.mp3",
+          "label": "(warning beeps)",
+          "sha256": "f7fe3ee99b451fdeeb4039cf20d22296fbefa0c76642e5db99e53fa1efcf8f46"
+        },
+        {
+          "file": "sounds/task_acknowledge_5.mp3",
+          "label": "(negative beep)",
+          "sha256": "fde9bc2987a07f454fd3f695454b0543f58ac107e6315b4d33b1c6f6e642c183"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "(satisfied beeps)",
+          "sha256": "98efba184c89ac31f839e6c30c03f934eb0e761a939ed840defcdd333704f65c"
+        },
+        {
+          "file": "sounds/task_complete_2.mp3",
+          "label": "(grim, satisfied beeps)",
+          "sha256": "965315192e0697ee1c476bef59e0e53b4768bf5b3d26426223e627ad2a447378"
+        },
+        {
+          "file": "sounds/task_complete_3.mp3",
+          "label": "(chuckles)",
+          "sha256": "b60b2b9ce9742fa309c25e8083ca1a6589a6e79a710acc16b15fcf53112da325"
+        },
+        {
+          "file": "sounds/task_complete_4.mp3",
+          "label": "(awed beeps)",
+          "sha256": "cd5f7b7402219f1b81a9e490a20941fcf8fc921c3ea3e41083dced4069ea3fd5"
+        },
+        {
+          "file": "sounds/task_complete_5.mp3",
+          "label": "(proud beeps)",
+          "sha256": "7636a016b151de29af490a1a79d46965af5e108fbf6c5c360281d1d8e8b7beaf"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "(thoughtful beeps)",
+          "sha256": "d6c3c0b9a6a64954b5e5772af2d59c6cd9e861e96344906a1db9c70a412dc0ac"
+        },
+        {
+          "file": "sounds/task_error_2.mp3",
+          "label": "(thoughtful beeps)",
+          "sha256": "60b7f9b3daa1cb20ceddfcad14e934b60bcfdec24e9bf29029b4d192fe0ae45a"
+        },
+        {
+          "file": "sounds/task_error_3.mp3",
+          "label": "(excited beeps)",
+          "sha256": "55bd1aa4b47891a7075366353e0edfce2fd2660c5af64b8742902456e101e4fa"
+        },
+        {
+          "file": "sounds/task_error_4.mp3",
+          "label": "(nervous beeps)",
+          "sha256": "6fa11da6b1fa452257cad376638ada1d9a55f1c36555e529f44ae5707cb83076"
+        },
+        {
+          "file": "sounds/task_error_5.mp3",
+          "label": "(relieved beep)",
+          "sha256": "d8003bb473bc630fba0a294fbac54f3d31bc34577930f85265abdf5cb140e399"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "(excited beeps)",
+          "sha256": "32ba557aa3237d5c4f2b630ae2ab2a3468dbaeb11644550cf67111cea16ae93f"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "(bashful beeps)",
+          "sha256": "596899e6d2f01be4136114d03753cb201ec77180668980f041d68b521a960cf8"
+        },
+        {
+          "file": "sounds/input_required_3.mp3",
+          "label": "(warning beeps)",
+          "sha256": "91397c12bc29b911f519fc54a16f890257e737de429aeb2181cb49797a465804"
+        },
+        {
+          "file": "sounds/input_required_4.mp3",
+          "label": "(worried beeps)",
+          "sha256": "ea656c3db3e78fc90285338ad4ec826ea2efff6f95dc929d684a9d924953c0a9"
+        },
+        {
+          "file": "sounds/input_required_5.mp3",
+          "label": "(warning beeps)",
+          "sha256": "ff0fad8b0e13bbd7973bb55f24ed6abdee741f8a6383892bff6a37c6f138bee9"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_1.mp3",
+          "label": "(proud beeps)",
+          "sha256": "1d55a79335f78726ad6a3cf74fb7859751b0fab7ae30b554aaf005acfe28d8fc"
+        },
+        {
+          "file": "sounds/resource_limit_2.mp3",
+          "label": "(brisk beeps)",
+          "sha256": "0cb6b8a70e2fc8ffb42a49df94cd7f0cc10829600327045dc41e980292239d56"
+        },
+        {
+          "file": "sounds/resource_limit_3.mp3",
+          "label": "(happy beeps)",
+          "sha256": "54926f34ca506f6320062e135e10f3ece921fa2fa2077808fe658048a5c9b4df"
+        },
+        {
+          "file": "sounds/resource_limit_4.mp3",
+          "label": "(worried beeps)",
+          "sha256": "a6d7c52fb26d6b2208f250771fca301c8728cca91de9116f990462ac4f0628cc"
+        },
+        {
+          "file": "sounds/resource_limit_5.mp3",
+          "label": "(worried beeps)",
+          "sha256": "749b654cb9b66867b9ac709c010b6ed76dc3ee3513064e66eaa1dd338af40143"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/user_spam_1.mp3",
+          "label": "(exciting beeps)",
+          "sha256": "163b7cdf94dda88c62a587a4c7e734e0caa9f943ef2520b0091552fbcabeb9b8"
+        },
+        {
+          "file": "sounds/user_spam_2.mp3",
+          "label": "(thankful beeps)",
+          "sha256": "e7becb84858e94f5dd4c66ed66b7549d4142a7cf8c75d862826e0603d6caee11"
+        },
+        {
+          "file": "sounds/user_spam_3.mp3",
+          "label": "(admiring beeps)",
+          "sha256": "04c70b0ea8c7fe64b16c456457be53c8ef03e3e1da94b5cb2b739b48513ceea2"
+        },
+        {
+          "file": "sounds/user_spam_4.mp3",
+          "label": "(irritated beeps)",
+          "sha256": "ba12b8026d9653f068f690acfbe644ae90582feb06a7763daf095a2d56d2f1c8"
+        },
+        {
+          "file": "sounds/user_spam_5.mp3",
+          "label": "(expectant beeps)",
+          "sha256": "798bce5319203bdf2607b5b43d516360b21a438f1e31b30268775c7e8100d5fe"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "(commanding beep)",
+          "sha256": "248fcc4a0ec8ab62e383a15b07e1ac9713c7bb8e15a7a9c193bcb8aa19d87999"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "(assertive beeps)",
+          "sha256": "ebab1ff9d9132cbee267635290d33dab0056bcc5beba73f3550193ab1de07f46"
+        },
+        {
+          "file": "sounds/session_end_3.mp3",
+          "label": "(attacking beeps)",
+          "sha256": "0f9b7cfe37afe63c4ad5d1d265eff7372887c89b5a301cdb7c5758a56bd8f6ca"
+        },
+        {
+          "file": "sounds/session_end_4.mp3",
+          "label": "(frustrated beep)",
+          "sha256": "6a9b80d639a185584f52fd6779a580d6fe75be3a5430fcb2f95daf88d52af071"
+        },
+        {
+          "file": "sounds/session_end_5.mp3",
+          "label": "(commanding beeps)",
+          "sha256": "be7d03c68afa5d37e025d19e578bb8a1f294b2606b71364de92746b8032dbd0c"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/task_progress_1.mp3",
+          "label": "(reflective beeps)",
+          "sha256": "bfd9ccf5d39be607f5184f885387bb45525745a510a527cb7e01703a5bcb699c"
+        },
+        {
+          "file": "sounds/task_progress_2.mp3",
+          "label": "(determined beeps)",
+          "sha256": "34e153057c20ae5a3294380e31060565ea25f82854ec00972fb546319307cae8"
+        },
+        {
+          "file": "sounds/task_progress_3.mp3",
+          "label": "(determined beeps)",
+          "sha256": "eab01c8b11626d83cf56f33b6f1788cd867aeae436ca6597bb474ffff979b404"
+        },
+        {
+          "file": "sounds/task_progress_4.mp3",
+          "label": "(galvanizing beeps)",
+          "sha256": "95de3762ecfbaa1271205a4913ed7a2e3a8e709dd5aa3c07c7169137297baed8"
+        },
+        {
+          "file": "sounds/task_progress_5.mp3",
+          "label": "(considering beeps)",
+          "sha256": "0a5231c449a156a8db87b544bf3f34809e8a0ba563eb074f4f5d71becba2ca28"
+        }
+      ]
+    }
+  }
+}

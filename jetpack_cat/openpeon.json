@@ -1,0 +1,89 @@
+{
+  "cesp_version": "1.0",
+  "name": "jetpack_cat",
+  "display_name": "Overwatch - Jetpack Cat",
+  "version": "1.0.0",
+  "description": "Jetpack Cat voice lines from Overwatch -- the rocket-powered feline support hero",
+  "author": {
+    "name": "heron--",
+    "github": "heron--"
+  },
+  "license": "fair-use",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_1.mp3",
+          "label": "Meow meow meow, meow meow!",
+          "sha256": "4d7867dc683d24debfc0baf346044fabeb813079b6f4f6a2a6b2fb99d890de1f"
+        },
+        {
+          "file": "sounds/session_start_2.mp3",
+          "label": "Meoweow!",
+          "sha256": "a2853f95bea0793466688ecd340663e4e169760dbe9a26148a96273eeda6e724"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_1.mp3",
+          "label": "Meow!",
+          "sha256": "8bb286405c0792ade13aa39270019a1815fefdc7e213b286b16e5ced39e8588c"
+        },
+        {
+          "file": "sounds/task_acknowledge_2.mp3",
+          "label": "Meow meow.",
+          "sha256": "f41e0f74ad65ab3b0f92de30f9fa193c2c36693960a5fea81823594184737c1a"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_1.mp3",
+          "label": "Meeeow!",
+          "sha256": "b83dec35a4ac099b06a2edfebf5be90c3f5c4a859abb777704f42809e53dc821"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_1.mp3",
+          "label": "(Surprised) Meoew!!",
+          "sha256": "9064b2bdb5410e45eeb467eb6ce6233de93b867485cf9b8fafe62fea9e84f7ef"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_1.mp3",
+          "label": "Meow! Meow meow?",
+          "sha256": "45c3f95ddefcdaf20e45cce14ba6d60c80fe09f0bf030760c5a6944cd69f06e9"
+        },
+        {
+          "file": "sounds/input_required_2.mp3",
+          "label": "Meow!",
+          "sha256": "960d45f80b9bd968b4f0e130ab150abf7b610f70d07581bd778ce63d8ecd1e11"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/session_end_1.mp3",
+          "label": "Meow.",
+          "sha256": "a6bf364a6c2050cbbb5896c1314dc3c17fafd7d853638194e225e2f08361b7d6"
+        },
+        {
+          "file": "sounds/session_end_2.mp3",
+          "label": "Meow...",
+          "sha256": "5ecf6dedc067ed55b2c8e4406458cb35a75f6973b4397f0af7b42e4343f811ae"
+        }
+      ]
+    }
+  }
+}
